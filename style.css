@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+}
+
+.dim{
+    opacity: 0.5;
+}
+
+#color-price{
+    font-size: 1em; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+  }
+
+  #color-name{
+    font-size: 1.5em; 
+  }
+
+  #paint-info-container {
+    height: 5.5em;
+  }
